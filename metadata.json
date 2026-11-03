@@ -1,0 +1,6 @@
+{
+  "name": "RevCode - Website Development Studio",
+  "description": "RevCode builds digital experiences that move businesses forward. Premium, modern, and high-performance custom web development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
